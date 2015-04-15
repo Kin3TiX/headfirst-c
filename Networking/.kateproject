@@ -1,0 +1,10 @@
+{
+  "name": "Networking",
+  "files": [ { "directory": ".",
+      "filters": [
+    "*.c",
+    "*.h"
+      ], 
+    "recursive": 1 } 
+  ]
+}

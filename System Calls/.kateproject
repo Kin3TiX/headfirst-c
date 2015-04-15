@@ -1,0 +1,11 @@
+{
+  "name": "News Hound"
+, "files": [ { "directory": ".",
+      "filters": [
+    "*.c",
+    "*.h",  
+    "*.py"
+      ], 
+    "recursive": 1 } 
+  ]
+}
