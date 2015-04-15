@@ -1,1 +1,2 @@
-#Sample problems and work from O'Reilly's Headfirst C
+#headfirst-c
+Sample problems and work from O'Reilly's Headfirst C
